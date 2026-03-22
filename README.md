@@ -1,5 +1,5 @@
 ## Overview
-This project demonstrates both theoretical and practical knowledge of SOC activities. It covers alert prioritization, incident classification, the incident response lifecycle, and frameworks. The project also includes practical application of alert management, triage, documentation, and evidence preservation using tools like Wazuh, TheHive, VirusTotal, Velociraptor, and CrowdSec.
+This task demonstrates both theoretical and practical knowledge of SOC activities. It covers alert prioritization, incident classification, the incident response lifecycle, and frameworks. The project also includes practical application of alert management, triage, documentation, and evidence preservation using tools like Wazuh, TheHive, VirusTotal, Velociraptor, and CrowdSec.
 
 ## Key Learnings
 ### Theoretical knowledge
